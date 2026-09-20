@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local application data
+data/
+
+# Development backups
+*.backup
+*.before_*
+
+# Local development/helper scripts
+add_admin_setup.py
+add_create_admin.py
+connect_admin_setup.py
+fix_gui_imports.py
+fix_password_mask.py
+fix_security.py
+fix_setup_style.py
