@@ -1,4 +1,4 @@
-﻿# Student Management System
+# Student Management System
 
 A desktop-based Student Management System built with Python and Tkinter, using SQLite for persistent local data storage.
 
@@ -327,7 +327,7 @@ Never publish real student information or administrator credentials.
 
 ## License
 
-No license has been specified for this project yet.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Before publishing the project as an open-source repository, add an appropriate `LICENSE` file and update this section accordingly.
 
@@ -336,5 +336,7 @@ Before publishing the project as an open-source repository, add an appropriate `
 The project is currently under development, testing, and release-readiness review.
 
 The GUI is the primary application interface. The CLI is retained as an optional interface for basic student management.
+
+
 
 
