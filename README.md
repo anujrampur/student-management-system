@@ -100,6 +100,24 @@ The application supports migration of legacy student data from:
 data/students.json
 ```
 
+## Screenshots
+
+### Administrator Login
+
+![Administrator Login](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Student Form
+
+![Student Form](screenshots/student-form.png)
+
+### Backup / Restore
+
+![Backup / Restore](screenshots/backup-restore.png)
+
 ## Technology Stack
 
 - Python 3
@@ -336,6 +354,8 @@ Before publishing the project as an open-source repository, add an appropriate `
 The project is currently under development, testing, and release-readiness review.
 
 The GUI is the primary application interface. The CLI is retained as an optional interface for basic student management.
+
+
 
 
 
